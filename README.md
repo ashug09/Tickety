@@ -21,34 +21,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https
-
-# Tickety
-
-Welcome to Tickety! This project is a full-stack CRUD application built using the MERN stack (MongoDB, Express.js, React, Node.js) with Next.js for server-side rendering and serverless APIs. With Tickety, users can generate, view, modify, and delete tickets for various listed issues.
-
-## Features
-
-- **Create Tickets**: Users can create new tickets for any listed issues.
-- **View Tickets**: Users can view all their tickets in a structured format.
-- **Modify Tickets**: Users can update the details of existing tickets.
-- **Delete Tickets**: Users can delete tickets they no longer need.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
     git clone https://github.com/yourusername/tickety.git
     ```
 2. Navigate to the project directory:
