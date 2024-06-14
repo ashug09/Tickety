@@ -11,9 +11,14 @@ Welcome to Tickety! This project is a full-stack CRUD application built using th
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
+
+## Demo
+
+Check out the live demo [here](https://tickety-six.vercel.app).
 
 ## Installation
 
