@@ -14,9 +14,6 @@ Welcome to Tickety! This project is a full-stack CRUD application built using th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
